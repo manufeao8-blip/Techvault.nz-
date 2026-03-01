@@ -1,0 +1,84 @@
+Here's the complete code. Copy all of this:
+<!-- Navigation -->
+<nav class="fixed w-full z-50 bg-white/90 backdrop-blur-md border-b border-gray-200" id="navbar">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between items-center h-16">
+            <div class="flex items-center space-x-2">
+                <div class="w-10 h-10 hero-gradient rounded-xl flex items-center justify-center text-white font-bold">
+                    <i class="fas fa-bolt"></i>
+                </div>
+                <span class="text-2xl font-bold gradient-text">TechVault</span>
+            </div>
+            <div class="hidden md:flex space-x-8">
+                <a href="#reviews" class="text-gray-700 hover:text-purple-600 font-medium">Reviews</a>
+                <a href="#guides" class="text-gray-700 hover:text-purple-600 font-medium">Guides</a>
+                <a href="#deals" class="text-gray-700 hover:text-purple-600 font-medium">Deals</a>
+            </div>
+            <button class="bg-gray-900 text-white px-6 py-2 rounded-full font-medium">Subscribe</button>
+        </div>
+    </div>
+</nav>
+
+<!-- Hero Section -->
+<section class="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden">
+    <div class="absolute inset-0 hero-gradient opacity-5"></div>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+        <div class="text-center max-w-4xl mx-auto">
+            <div class="inline-flex items-center px-4 py-2 rounded-full bg-purple-100 text-purple-700 font-medium text-sm mb-6">
+    }
+</style>
+
+<!-- Navigation -->
+<nav class="fixed w-full z-50 bg-white/90 backdrop-blur-md border-b border-gray-200" id="navbar">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between items-center h-16">
+            <div class="flex items-center space-x-2">
+                <div class="w-10 h-10 hero-gradient rounded-xl flex items-center justify-center text-white font-bold">
+                    <i class="fas fa-bolt"></i>
+                </div>
+                <span class="text-2xl font-bold gradient-text">TechVault</span>
+            </div>
+            <div class="hidden md:flex space-x-8">
+                <a href="#reviews" class="text-gray-700 hover:text-purple-600 font-medium">Reviews</a>
+                <a href="#guides" class="text-gray-700 hover:text-purple-600 font-medium">Guides</a>
+                <a href="#deals" class="text-gray-700 hover:text-purple-600 font-medium">Deals</a>
+            </div>
+            <button class="bg-gray-900 text-white px-6 py-2 rounded-full font-medium">Subscribe</button>
+        </div>
+    </div>
+</nav>
+
+<!-- Hero Section -->
+<section class="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden">
+    <div class="absolute inset-0 hero-gradient opacity-5"></div>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+        <div class="text-center max-w-4xl mx-auto">
+            <div class="inline-flex items-center px-4 py-2 rounded-full bg-purple-100 text-purple-700 font-medium text-sm mb-6">
+                <span class="w-2 h-2 bg-purple-600 rounded-full mr-2"></span>
+                New: 2024 Tech Buying Guide Updated
+            </div>
+            <h1 class="text-5xl md:text-7xl font-bold mb-6 leading-tight">
+                Find The <span class="gradient-text">Perfect Tech</span><br>Without The Headache
+            </h1>
+            <p class="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
+                Expert reviews, brutal honesty, and exclusive deals on the gadgets that actually matter.
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href="#reviews" class="affiliate-btn text-white px-8 py-4 rounded-full font-bold text-lg shadow-lg">
+                    See Top Picks <i class="fas fa-arrow-right ml-2"></i>
+                </a>
+                <a href="#guides" class="bg-white text-gray-900 border-2 border-gray-200 px-8 py-4 rounded-full font-bold text-lg hover:border-purple-500">
+                    Read Guides
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Featured Reviews -->
+<section id="reviews" class="py-20 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16 scroll-reveal">
+            <h2 class="text-4xl font-bold mb-4">Top Rated This Month</h2>
+            <p class="text-gray-600">We've spent hundreds of hours testing to find the best
+
